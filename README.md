@@ -35,4 +35,6 @@ Here is some personal information about me:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-hanks)](https://github.com/anuraghazra/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-hanks&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-hanks&show_icons=true)
+
 
