@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Here is some personal information about me:
 
-- 🔭 I'm Chinese and currently working in HangShang.
+- 🔭 I'm Chinese and currently working in Shanghai.
 - 📖 I'm currently learning && using Vue.js/node.js...
 - 🌱 Ask me about any question about my repos or directly give me a issue/pr~
 - 📫 How to reach me: laryers@163.com.
