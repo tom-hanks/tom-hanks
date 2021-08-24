@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🚀 Welcome to luffyZh Zone
+### 🚀 Welcome to Tom-Hanks Zone
 
 Here is some personal information about me:
 
-- 🔭 I'm Chinese and currently working in Hangzhou.
-- 📖 I'm currently learning && using React.js/Next.js...
+- 🔭 I'm Chinese and currently working in HangShang.
+- 📖 I'm currently learning && using Vue.js/node.js...
 - 🌱 Ask me about any question about my repos or directly give me a issue/pr~
-- 📫 How to reach me: zhoudeyou945@126.com.
-- 💬 Wechat: zhoudeyou945.
+- 📫 How to reach me: laryers@163.com.
+- 💬 Wechat: zhugeshangguan.
 
 **🔧 Language && Tools**  
 
@@ -33,8 +33,8 @@ Here is some personal information about me:
 <code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luffyZh&theme=buefy)](https://github.com/luffyZh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://juejin.cn/user/96412752681079/posts)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-hanks&theme=buefy)](https://github.com/luffyZh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-hanks&layout=compact&theme=buefy)](https://juejin.cn/user/96412752681079/posts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luffyZh&repo=next-antd-scaffold&theme=buefy)](https://github.com/luffyZh/next-antd-scaffold)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luffyZh&repo=dynamic-antd-theme&theme=buefy)](https://github.com/luffyZh/dynamic-antd-theme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tom-hanks&repo=next-antd-scaffold&theme=buefy)](https://github.com/luffyZh/next-antd-scaffold)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tom-hanks&repo=dynamic-antd-theme&theme=buefy)](https://github.com/luffyZh/dynamic-antd-theme)
